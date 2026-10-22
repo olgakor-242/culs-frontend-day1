@@ -1,6 +1,6 @@
-# Zhibe-Aubakirova-culs-frontend-final
+# Olha Korotych-culs-frontend-final
 
-**Author:** Zhibek Aubakirova
+**Author:** Olha Korotych
 
 **Website:** The Little Herb Garden
 
